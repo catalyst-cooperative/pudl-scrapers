@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 
 import datetime
+from pathlib import Path
 
 
-def new_output_dir(root):
+def new_output_dir(root: Path) -> Path:
     """
     Produce the name of a fresh output directory.
 
