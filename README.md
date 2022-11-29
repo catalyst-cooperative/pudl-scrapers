@@ -1,5 +1,8 @@
 # PUDL Scrapers
 
+# Deprecated
+This repo has been replaced by the new [pudl-archiver](https://github.com/catalyst-cooperative/pudl-archiver) repo, which combines both the scraping andd archiving process.
+
 # Installation
 
 We recommend using conda to create and manage your environment.
